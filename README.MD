@@ -10,7 +10,7 @@ Since the scripts in this repo is pretty much meant for one-off use and the writ
 
 ```
 python3 generateSvg.py  # Generate the glyphs in SVG format
-python3 generateTtf-with-liga.py  # Using the SVG glyphs, generate the TTF fonts (Sadalian{Regular,Bold,Italic,BoldItalic}.ttf and qss_mapping.py
+python3 generateTtf-with-liga.py  # Using the SVG glyphs, generate the TTF fonts Sadalian{Regular,Bold,Italic,BoldItalic}.ttf and qss_mapping.py
 python3 encoder.py  # With the qss_mapping.py, read Romanized Sadalian Script from stdin and output Sadalian Script Unicode characters to stdout
 ```
 
